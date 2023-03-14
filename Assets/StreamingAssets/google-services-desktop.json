@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749784310229",
+    "project_id": "unitymodule-f7fe4",
+    "storage_bucket": "unitymodule-f7fe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749784310229:android:8d11601f88b8edda325d5c",
+        "android_client_info": {
+          "package_name": "com.Mikael.UnityModule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749784310229-hr8t9u5uvds90vo3jf7nqk6hdmovhq79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByX11fABpLkAr5PJDo8KRhAzqB36izi8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749784310229-hr8t9u5uvds90vo3jf7nqk6hdmovhq79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
